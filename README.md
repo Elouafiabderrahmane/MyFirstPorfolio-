@@ -16,7 +16,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/screen.png)
 
 ## View live preview [here](https://www.elouafi.me/).
 
